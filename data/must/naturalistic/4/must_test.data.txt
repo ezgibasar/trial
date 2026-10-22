@@ -1,0 +1,59 @@
+0	must have come off one of the tins .
+1	it must be morning time .
+0	must be time to get up now „ isn't it ?
+1	that must be daddy because mummy's prettier than that .
+3	i think alison must have picked a flower .
+1	it must be somebody else's .
+1	it must be a circus train like yours .
+1	it must be in the fire+station „ mustn't it ?
+1	you must be starting with chicken .
+1	it must have come off dolly .
+0	must have got lost .
+1	she must be a big girl .
+3	no the xylophone must be somewhere else .
+1	we must put these back in the box .
+0	must be in your other toy box i think .
+1	we must have a good hunt for your crayons , mustn't we because they're all scattered everywhere .
+1	somebody must have driven too close to the car .
+2	well he must be lost .
+3	the other pieces must be in the box there .
+1	i must go and get it because otherwise i'll forget , won't [ : willn't ] i ?
+1	it must be in the other room , mustn't it ?
+1	there must be another part somewhere , mustn't there ?
+3	i think you must be a vet then .
+1	it must be twenty years since i've moved that fast .
+2	well she must be in there somewhere .
+1	there must be more than one .
+9	it's got a cow on it so_that means it must be milk .
+1	you must leave him now .
+1	that must be new .
+1	so_that must be a vase .
+2	if you must .
+1	he must be very dirty if he needs two baths .
+1	you must always cut it on the board like that .
+0	must brush him .
+0	must have left it at somebody's house .
+1	you must try a little bit harder .
+0	must be upstairs ?
+2	yellow car must be fixed .
+1	that must be the most biggest lorry in the whole wide world .
+1	it must be big enough .
+1	ours must be about somewhere .
+0	must be easy .
+1	you must know .
+1	we must be able to make something .
+1	there must be some more somewhere .
+4	i think that one must be mr_upsidedown .
+1	i must remember the next time rachel comes we don't give you a biscuit because you don't perform the same .
+1	that must be new .
+3	i'm sure it must be cooked .
+1	you must have moved him .
+0	must just have been + . . .
+8	< it's just > [ / / ] must have just fallen out , nicole .
+1	they must be somewhere .
+5	i [ / ] i must get some batterys for it .
+7	and ears go next_to each_other so where must that ear go ?
+1	that must go at the bottom or at the side .
+2	but we must remember it's your cup and not anna's cup .
+1	i must say you're not gifted in the rolling out department .
+8	well you can use your trailer but you must remember that it's your trailer and not anna's .
